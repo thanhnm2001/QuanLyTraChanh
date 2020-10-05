@@ -1,2 +1,0 @@
-# QuanLyTraChanh
-progaming languague:java
